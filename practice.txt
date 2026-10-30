@@ -1,0 +1,26 @@
+# 1. Inspect your favorite website and change something something ont the page which is displayed.
+
+    =>  Before render the page.
+
+        Image:  pictures/Before.png
+
+    => After render the page.
+
+        Image: pictures/After.png
+
+
+# 2. Go to your favorite website and try to view the page source and write the exact lines of code. 
+    Does it clone the website? why?
+
+        We can see page's source code by pressing [ctrl + u]. No, viewing the page source does not
+     completely clone the website. The page source mainly shows the HTML code and references to 
+     CSS and JavaScript files. A website may also depend on images, databases, server-side code,
+     APIs and other resourses. Therefore, copying the page source alone is not enough to create an
+     exact working clone of the website.
+
+
+# 3. Write any HTML code inside a text file. Does it work if you write it using notepad?
+
+        Yes, we can write HTML code inside a text file using Notepad. HTML code does not 
+    require a special editor; we have to save it by .html extension.
+    It works when we open it on browser.
